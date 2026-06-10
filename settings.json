@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "VyronSMP.aternos.me",
-    "port":  51067,
+    "ip": "riftwar.qzz.io",
+    "port":  45129,
     "version": "1.20.1",
     "try-creative": false
   },
